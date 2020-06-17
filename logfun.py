@@ -1,28 +1,25 @@
+
 """
 @author: 
     Tania lizbeth Oria trejo 14590555
     Efrain Garcia Garcia     15590287
-
 """
- 
+Requisitos = {
+	"Oracle","SQL/PL","Linux","Unix","Shell","C++",
+	"Proc*C","TuxedoV12", "VB6", "Java","WebServices","MicroServicios"
+} 
+
 print("""	
     
 En una empresa solicitan Lic./Ing. en Sistemas, Computación o afín. con los siguientes requisitos:
     
 	• Oracle BBDD
-
 	• SQL y PL/SQL
-
 	• Linux
-
 	• Unix
-
 	• Shell (Linux - Unix)
-
 	• C++, Proc*C y Tuxedo V12 o anteriores
-
 	• Visual Basic 6.0
-
 	• Java (Frameworks) , Web Services y Micro Servicios APIs
 	
       
