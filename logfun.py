@@ -1,5 +1,7 @@
 """
-@author: Efrain Garcia Garcia
+@author: 
+    Tania lizbeth Oria trejo 14590555
+    Efrain Garcia Garcia     15590287
 
 """
  
